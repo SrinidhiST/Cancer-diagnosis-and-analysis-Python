@@ -1,0 +1,15 @@
+According to World Health Organization (WHO), Cancer is the second leading cause of death globally and is responsible for an estimated 9.6 billion deaths in 2018 and globally about 1 in 6 deaths is due to cancer. 
+Around one third of deaths from cancer are due to behavioural and dietary risks: high BMI, low fruit and vegetable intake, lack of physical activity, tobacco use, and alcohol use. 
+There are varieties of cancer that has been emerging since it was found right. And the most prevailing and common types of cancers are Lung cancer and Breast cancer. 
+They’ve taken approximately 2.09 million cases as per 2018 WHO report. 
+According to 'The Hindu', in India 1 in 10 persons are prone to cancer and the most vicious one is Breast Cancer. 
+Cancer is caused by accumulated damage to genes and such changes may be due to chance or to exposure to a cancer causing substances. 
+There are certain substances that might cause cancer and they’re, biological or internal factors such as age, gender, inherited genetic defects and skin type, environmental exposure like radon and UV radiation and fine particulate matter, occupational risk factors and finally lifestyle – related factors. 
+Biologically it is rare phenomenon to have an advanced cancer go into remission which indirectly means there is no known remedy for cancer. 
+There are four stages in any typical cancer. Some have stage 0 which means that it is in place. 
+If the cancer reaches last stage, it is incurable. 
+This project aims at finding the stage/level of cancer based on the causes of cancer and determining the life expectancy of a person. 
+There are 3 levels in the dataset as 'Low', 'Medium', 'High'. 
+If the stage is low, they might have longer duration and consequently it decreases as the stage increases. 
+There are 25 cancer causing agents in the dataset which helps to find the stage. 
+In this project, we haven’t considered any particular type of cancer.
