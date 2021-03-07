@@ -1,0 +1,8 @@
+The dataset contains 21 major causes and symptoms of cancer and id, age and gender of the patient. 
+Finally the level/stage of the cancer is scaled between Low, Medium and High. 
+Initially data processing is performed to check for empty null values, and if so found it is filled using mean of its previous and subsequent values or mode of the entire attribute. 
+The data contains values from 1 – 10 ie., a scale of values to describe the effect of cause/symptom in patient. 
+If there exists values other than the scale values, they’re removed. 
+Secondly, Exploratory Data Analysis (EDA) is performed to check the relation of symptoms with each other and to check various levels of data. 
+Around 6 models have been implemented here to check the accuracy of the models and to find the level and life expectancy of the person. 
+After data pre – processing is finished, the confusion matrix, classification report and accuracy of the models is built by fine tuning the parameters. 
